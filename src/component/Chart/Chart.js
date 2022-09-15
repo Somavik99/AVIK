@@ -8,6 +8,7 @@ const Chart = (props) => {
     <div className="chart">
       {props.dataCharts.map((dataChart) => (
         <ChartBar
+        key = {dataChart.label}
           value={dataChart.value}
           maxValue={Maximum}
           label={dataChart.label}
