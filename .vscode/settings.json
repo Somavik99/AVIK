@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "git.ignoreLimitWarning": true,
+    "material-icon-theme.activeIconPack": "angular",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.showUpdateMessage": false,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "material-icon-theme.folders.color": "#90a4ae",
+    "monokaiPro.fileIconsMonochrome": false,
+    "editor.fastScrollSensitivity": 1,
+    "workbench.list.fastScrollSensitivity": 1,
+    "terminal.integrated.fastScrollSensitivity": 1,
+    "terminal.integrated.scrollback": 1,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "task.quickOpen.history": 3
+}
