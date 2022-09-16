@@ -1,6 +1,6 @@
 import React from "react";
 import "./expenseFilter.css";
-import ExpenseItems from "./ExpenseItems";
+// import ExpenseItems from "./ExpenseItems";
 
 const ExpenseFilter = (props) => {
   const filterChange = (event) => {
